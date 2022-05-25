@@ -12,3 +12,4 @@ if __name__ == "__main__":
     list_validation = [1, 4, 3, 0, -1]
     objective_key = 44
     print(lineal_search(list_validation, objective_key))
+
